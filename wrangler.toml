@@ -1,4 +1,4 @@
-name = "basic-auth-to-cf-access"
+name = "cf-access-basic-authenticator"
 type = "javascript"
 account_id = ""
 workers_dev = true
