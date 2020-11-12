@@ -18,10 +18,11 @@ wrangler publish
 ```
 
 #### Architecture
-The worker should listen on the following additional routes:
+This worker should listen on the following additional routes:
 `
 *-auth.yourdomain.com
 `
+
 Next... setup 2 Domains/DNS records ex:
 ```
 A radarr.yourdomain.com
